@@ -1,0 +1,32 @@
+[
+  {
+    "pocket": " Treasury Bills",
+    "total_money": 1000.0,
+    "type_pocket": 1
+  },
+  {
+    "pocket": "Fixed Deposit Accounts",
+    "total_money": 500.0,
+    "type_pocket": 2
+  },
+  {
+    "pocket": "Money Market Funds",
+    "total_money": 10000.0,
+    "type_pocket": 3
+  },
+  {
+    "pocket": "Agribusiness Investments",
+    "total_money": 2500.0,
+    "type_pocket": 4
+  },
+  {
+    "pocket": "Online Peer-to-Peer Lending",
+    "total_money": 2000.0,
+    "type_pocket": 5
+  },
+  {
+    "pocket": "Equity-Based Unit Trust Funds",
+    "total_money": 2000.0,
+    "type_pocket": 6
+  }
+]

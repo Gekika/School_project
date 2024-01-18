@@ -1,0 +1,51 @@
+[
+  {
+    "purpose_name": "Money market",
+    "total_saving": 5000,
+    "has_saving": 3000,
+    "left_saving": 2000,
+    "percent_saving": 60,
+    "month_duration": 6
+  },
+  {
+    "purpose_name": "Treasury Bills",
+    "total_saving": 10000,
+    "has_saving": 8000,
+    "left_saving": 2000,
+    "percent_saving": 80,
+    "month_duration": 12
+  },
+  {
+    "purpose_name": "AgribusinessInvestments",
+    "total_saving": 20000,
+    "has_saving": 15000,
+    "left_saving": 5000,
+    "percent_saving": 75,
+    "month_duration": 8
+  },
+
+  {
+    "purpose_name": "Peer to peer Lending",
+    "total_saving": 15000,
+    "has_saving": 10000,
+    "left_saving": 5000,
+    "percent_saving": 66.67,
+    "month_duration": 10
+  },
+  {
+    "purpose_name": "Equity based funds",
+    "total_saving": 25000,
+    "has_saving": 20000,
+    "left_saving": 5000,
+    "percent_saving": 80,
+    "month_duration": 12
+  },
+  {
+    "purpose_name": "Fixed deposit Accounts",
+    "total_saving": 500000,
+    "has_saving": 300000,
+    "left_saving": 200000,
+    "percent_saving": 60,
+    "month_duration": 60
+  }
+]

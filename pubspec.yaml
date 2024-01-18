@@ -1,0 +1,53 @@
+name: invest
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.17.0
+  cupertino_icons: ^1.0.2
+  google_fonts: ^5.0.0
+  skeletons: ^0.0.3
+  percent_indicator: ^4.2.3
+  qr_flutter: ^4.1.0
+  qr_code_scanner: ^1.0.1
+  introduction_screen: ^3.1.8
+  firebase_auth: ^4.7.2
+  cloud_firestore: ^4.8.4
+  firebase_core: ^2.15.0
+  salomon_bottom_bar: ^3.3.2
+  provider: ^6.0.1
+  image_picker: ^0.8.4+4
+  firebase_storage: ^11.2.5
+  url_launcher: ^6.0.3
+  webview_flutter: ^2.2.0
+  crypto: ^3.0.1
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/images/bibit.jpg
+    - lib/assets/images/gopay.jpg
+    - lib/assets/images/profile.jpg
+    - lib/assets/images/chip.png
+    - lib/assets/json/saving_target_dummy.json
+    - lib/assets/json/transaction_dummy.json
+    - lib/assets/json/credit_card_dummy.json
+    - lib/assets/json/pocket_dummy.json
+    - android/app/src/main/res/gopay.jpg
+    - lib/assets/images/invest.jpg
